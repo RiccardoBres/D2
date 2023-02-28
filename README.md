@@ -1,2 +1,2 @@
 # Esercizio-2
-http://127.0.0.1:5500/Esercizio%20css/index.html
+Sviluppo pagina ricettario "Focaccia with Caramelized Onion...". Utilizzo elementi basici CSS e impostazione della struttura HTML secondo l'immagine di riferimento fornita. 
